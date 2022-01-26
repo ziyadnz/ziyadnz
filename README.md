@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpin.anime.com%2Fwp-content%2Fuploads%2F2015%2F07%2FLuna-is-a-talking-cat-advisor-to-Usagi-Tsukino-and-a-computer-genius-sailor-moon-animated-gif.gif&f=1&nofb=1">
+<img src="https://giphy.com/gifs/news-group-anonymous-DBfYJqH5AokgM">
 </div>
 
 
