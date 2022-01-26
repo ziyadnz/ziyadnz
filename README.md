@@ -53,5 +53,5 @@
         </tr>
 </table>-->
 
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mervekrblt&theme=xcode" /></div>
-<div  align="center"> <img src="https://github.com/mervekrblt/mervekrblt/blob/output/github-contribution-grid-snake.svg" /></div>
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ziyadnz&theme=xcode" /></div>
+<div  align="center"> <img src="https://github.com/ziyadnz/ziyadnz/blob/output/github-contribution-grid-snake.svg" /></div>
