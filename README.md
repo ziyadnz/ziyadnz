@@ -52,3 +52,5 @@
 
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ziyadnz&theme=xcode" /></div>
 <div  align="center"> <img src="https://github.com/ziyadnz/ziyadnz/blob/output/github-contribution-grid-snake.svg" /></div>
+
+![snake gif](https://github.com/YOUR_USERNAME/ziyadnz/blob/output/github-contribution-grid-snake.gif)
