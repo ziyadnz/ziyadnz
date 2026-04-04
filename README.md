@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Ziya+Deniz;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Ziya+Deniz;Self+taught+developer;Cybersecurity+enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,vue,express,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,dart,linux,bash,kali,docker,git&theme=dark" />
 </p>
 
 ---
@@ -38,14 +38,14 @@
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ziyadnz&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ziyadnz&count_private=true&show_icons=true&theme=radical&hide_border=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=ziyadnz&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyadnz&layout=compact&theme=radical&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ziyadnz&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
