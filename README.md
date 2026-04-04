@@ -53,7 +53,7 @@
 <h2 align="center">🏆 Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziyadnz&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=ziyadnz&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
